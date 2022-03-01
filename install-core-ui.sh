@@ -12,4 +12,4 @@ else
 	echo -Dversion=$2
 fi
 
-mvn install:install-file -DgroupId=com.jieleye.android.library -DartifactId=core-ui -Dversion=$2 -Dfile=$1 -Dpackaging=jar -DgeneratePom=true -DlocalRepositoryPath=.  -DcreateChecksum=true
+mvn install:install-file -DgroupId=com.jieleye.android.library -DartifactId=core-ui -Dversion=$2 -Dfile=$1 -Dpackaging=aar -DgeneratePom=true -DlocalRepositoryPath=.  -DcreateChecksum=true
