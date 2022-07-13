@@ -3,10 +3,11 @@
   <groupId>org.webrtc</groupId>
   <artifactId>libjingle-peerconnection</artifactId>
   <versioning>
-    <release>m84</release>
+    <release>m84-r</release>
     <versions>
       <version>m84</version>
+      <version>m84-r</version>
     </versions>
-    <lastUpdated>20220708062934</lastUpdated>
+    <lastUpdated>20220713120832</lastUpdated>
   </versioning>
 </metadata>
